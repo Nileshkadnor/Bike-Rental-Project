@@ -1,0 +1,298 @@
+{
+  "user": [
+    {
+      "id": "rpm",
+      "name": "rpm",
+      "password": "$2a$10$d2MFJBxgoUCR/S6Q9Qhml.0VlNYLzXp/NOqcjsiKaI4assQcOjcma",
+      "email": "rp@g.c",
+      "phone": "2233232323",
+      "country": "india",
+      "address": "dd",
+      "gender": "female"
+    },
+    {
+      "id": "tejas",
+      "name": "tejas s",
+      "password": "$2a$10$zC6gveW695J8HBf.fVqSKepenQxLebi15dD7Zgat3M0bBLjGlyDPi",
+      "email": "tejas@gmail.com",
+      "phone": "7218223323",
+      "country": "india",
+      "address": "nsk",
+      "gender": "male"
+    },
+    {
+      "id": "Nilesh",
+      "name": "Nilesh K",
+      "password": "$2a$10$OfC85CzCeZPfCOmaruwfC.p9WCniPnhsfScBuActQJMa2lEw189hW",
+      "email": "nilesh@gmail.com",
+      "phone": "7688342567",
+      "country": "india",
+      "address": "nashik",
+      "gender": "male"
+    },
+    {
+      "id": "Nil",
+      "name": "Nilesh",
+      "password": "$2a$10$za5aWmoLaEGXFzuP8/JLguxWx7P5UOT7CcTfcPe44X6vBjmvn3lZ.",
+      "email": "nileshkadnor30@gmail.com",
+      "phone": "3344556645",
+      "country": "india",
+      "address": "Nashik",
+      "gender": "male"
+    },
+    {
+      "id": "nk",
+      "name": "nilesh",
+      "password": "$2a$10$q8jeEwYjM/adkZpuk4gvKucxnD7j.YOkjb2X54i1pgWEiCCMgF6V.",
+      "email": "nilesh@gmail.com",
+      "phone": "1234567891",
+      "country": "india",
+      "address": "nsk",
+      "gender": "male"
+    },
+    {
+      "id": "Nilesh",
+      "name": "Nilesh K",
+      "password": "$2a$10$9Eba/RSmMeaXlUSaWHtpGuDyckEyIzv4UryDHxOrZ.cKWb81t4gje",
+      "email": "nileshkadnor30@gmail.com",
+      "phone": "9145704768",
+      "country": "india",
+      "address": "Nashik\nnsk",
+      "gender": "male"
+    },
+    {
+      "id": "Nilesh",
+      "name": "Nilesh K",
+      "password": "$2a$10$VjCtzyCmAbyKi/yfyQBcHe22M2i50rlWZrBUUn9YMvJVMFqF4l2JW",
+      "email": "nileshkadnor30@gmail.com",
+      "phone": "9145704768",
+      "country": "india",
+      "address": "Nashik\n",
+      "gender": "male"
+    },
+    {
+      "id": "Nilesh",
+      "name": "Nilesh Kadnor",
+      "password": "$2a$10$zwDryGs4l4o8l3HdY6oImO.5eC/FTpaE7ZJKQekVVFPY5EHnGx2Ty",
+      "email": "nileshkadnor30@gmail.com",
+      "phone": "9145704768",
+      "country": "india",
+      "address": "Nashik\nnsk",
+      "gender": "male"
+    },
+    {
+      "id": "Nile",
+      "name": "Nilesh Kadnor",
+      "password": "$2a$10$xkWKhtmN5GQ5AsQqVEakq.onEfA11vDBHdy.D/uCegufDgmA29tle",
+      "email": "nileshkadnor30@gmail.com",
+      "phone": "9145704768",
+      "country": "india",
+      "address": "nsk",
+      "gender": "male"
+    },
+    {
+      "id": "nikita",
+      "name": "Nikita Gite",
+      "password": "$2a$10$P0keSNMHj04qclYf3/iwPuMuIKVpaqVwhFf.b2dQncqge5hiGR/RO",
+      "email": "nikita@gmail.com",
+      "phone": "9359760020",
+      "country": "india",
+      "address": "Nashik",
+      "gender": "female"
+    }
+  ],
+  "user2": [
+    {
+      "id": "rp",
+      "name": "rpm",
+      "password": "$2a$10$.Fwx8n7Q.P/orIZkPP8MnOsrXSYkZffj94v49XLoE6qwIvKR4GSS6",
+      "email": "r@g.c",
+      "phone": "223322323",
+      "country": "india",
+      "address": "ced",
+      "gender": "female"
+    },
+    {
+      "id": "vijay",
+      "name": "vijayd",
+      "password": "$2a$10$3SER.AwSjv7folbPQw3uZeNbAPZCBTou.R1SXOL4czydMgYxTttt6",
+      "email": "vijay@gmail.com",
+      "phone": "8877665545",
+      "country": "india",
+      "address": "nsk",
+      "gender": "male"
+    },
+    {
+      "id": "Aakash",
+      "name": "Aakash K",
+      "password": "$2a$10$RaSfAj8XuSIwkwxQWcqV8uuCa6ty8awHIPCp/VLn8aQZvd1LfweEi",
+      "email": "akash@gmail.com",
+      "phone": "7688776576",
+      "country": "india",
+      "address": "nashik",
+      "gender": "male"
+    },
+    {
+      "id": "Ak",
+      "name": "AK",
+      "password": "$2a$10$VsFxaUfm1OcnWkXsxfTF/eWaMKfsqMS3Z.8erAZCKwHHtFp65EYzO",
+      "email": "ak@gmail.com",
+      "phone": "2233445566",
+      "country": "india",
+      "address": "nsk",
+      "gender": "male"
+    },
+    {
+      "id": "Nilesh",
+      "name": "Nilesh Kadnor",
+      "password": "$2a$10$pje0bIPIqJjNmbcwDWv.J.90UWoghGfGReirFnnQrfUkzGKCx/pFy",
+      "email": "nileshkadnor30@gmail.com",
+      "phone": "9145704768",
+      "country": "india",
+      "address": "Manmad",
+      "gender": "male"
+    },
+    {
+      "id": "Nil",
+      "name": "Nilesh Kadnor",
+      "password": "$2a$10$q0aB4qG7sH/sCAloEyEn7OQ0RuQxKpyYVqWziVudzcKAS2J8Z.yIC",
+      "email": "nileshkadnor30@gmail.com",
+      "phone": "9145704768",
+      "country": "india",
+      "address": "nsk",
+      "gender": "male"
+    },
+    {
+      "id": "Nikita",
+      "name": "Nikita Gite",
+      "password": "$2a$10$jxOQbRNvbluUBB4qL4clheLcJp7lQGryW5Nf.2rmgjxX.0QSJ8Fw.",
+      "email": "nikita@gmail.com",
+      "phone": "9359760020",
+      "country": "india",
+      "address": "Nashik",
+      "gender": "female"
+    }
+  ],
+  "customer": [
+    {
+      "id": "6715",
+      "own": "Akash",
+      "vno": "MH23",
+      "rcbook": "234",
+      "bikerh": "3"
+    },
+    {
+      "id": "8e6e",
+      "own": "akash",
+      "vno": "mh15",
+      "rcbook": "123",
+      "bikerh": "-6"
+    }
+  ],
+  "updateStatus": [
+    {
+      "id": "cd80",
+      "status": "Accepted"
+    },
+    {
+      "id": "ec00",
+      "status": "Rejected"
+    },
+    {
+      "id": "cd80",
+      "status": "Accepted"
+    },
+    {
+      "id": "ec00",
+      "status": "Accepted"
+    },
+    {
+      "id": "750e",
+      "status": "Rejected"
+    }
+  ],
+  "feed": [
+    {
+      "id": "9fe8",
+      "fname": "Aakash",
+      "lname": "K",
+      "email": "aakash@gmail.com",
+      "texta": "Its good etc etc.."
+    },
+    {
+      "id": "1046",
+      "fname": "Ak",
+      "lname": "Ak",
+      "email": "ak@gmail.com",
+      "texta": "dfssd"
+    }
+  ],
+  "form": [
+    {
+      "id": "cd80",
+      "custname": "Nilesh",
+      "dob": "2024-03-08",
+      "qty": "2",
+      "rate": "",
+      "amt": 6,
+      "status": ""
+    },
+    {
+      "id": "ec00",
+      "custname": "AK",
+      "dob": "2024-03-08",
+      "qty": "2",
+      "rate": "",
+      "amt": 6,
+      "status": ""
+    },
+    {
+      "id": "750e",
+      "custname": "AK",
+      "dob": "2024-05-08",
+      "qty": "2",
+      "rate": "",
+      "amt": 6,
+      "status": ""
+    }
+  ],
+  "payment": [
+    {
+      "id": "45d3",
+      "cardn": "23322",
+      "ed": "23",
+      "email": "d@g.c",
+      "cv": "21312",
+      "pass": "ds",
+      "add": "asd",
+      "ad": "asd",
+      "city": "ad",
+      "state": "Rajasthan",
+      "zip": "sadc"
+    },
+    {
+      "id": "f8d4",
+      "cardn": "2223444455556666",
+      "ed": "2233",
+      "email": "nileshkadnor30@gmail.com",
+      "cv": "333",
+      "add": "Nashik",
+      "ad": "nsk",
+      "city": "nsk",
+      "state": "Maharashtra",
+      "zip": "222333"
+    },
+    {
+      "id": "b203",
+      "cardn": "1111222233334444",
+      "ed": "2223",
+      "email": "nileshkadnor30@gmail.com",
+      "cv": "222",
+      "add": "Nashik",
+      "ad": "nsk",
+      "city": "nsk",
+      "state": "Maharashtra",
+      "zip": "222333"
+    }
+  ]
+}
